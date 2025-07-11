@@ -1,5 +1,5 @@
-# ¡Hola! Soy Sofía 👋  
-**Actuaria & Data Scientist** | Python • R • SQL • Machine Learning  
+## Hi there! Welcome to my Github Profile! 👋 
+**Actuary | Data Scientist** 
 Me especializo en combinar conocimientos técnicos y estadísticos para desarrollar soluciones basadas en datos, especialmente en el sector asegurador y financiero.
 
 ## 🔍 Sobre mí  
