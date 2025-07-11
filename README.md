@@ -1,7 +1,6 @@
 ## Hi there! Welcome to my Github Profile! 👋 
 ---
 **Actuary | Data Scientist** 
----
 I build data-driven solutions by combining actuarial expertise and data science, with applications in insurance and beyond.
 
 ## 🛠️ Languages and Tools
