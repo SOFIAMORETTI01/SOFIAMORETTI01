@@ -1,14 +1,15 @@
 ## Hi there! Welcome to my Github Profile! 👋 
 **Actuary | Data Scientist** 
-Me especializo en combinar conocimientos técnicos y estadísticos para desarrollar soluciones basadas en datos, especialmente en el sector asegurador y financiero.
+I build data-driven solutions by combining actuarial expertise and data science, with applications in insurance and beyond.
 
-## 🔍 Sobre mí  
-Actualmente trabajo en modelos de riesgo para seguros y bancos. Disfruto analizar datos complejos, automatizar procesos y construir herramientas que agreguen valor real.
-
-## 🛠 Herramientas
-- Python, R, SQL  
-- Scikit-learn, LightGBM, Shiny, Power BI  
-- Git, Docker, Streamlit
+## 🛠 Tools
+## 🛠️ Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ## 🚀 Proyectos destacados
 - 🧠 Predicción de churn de empleados  
