@@ -35,6 +35,8 @@ Currently expanding my knowledge in machine learning and modern data-driven mode
 ## 📫 Contact Me  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiamoretti01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-dana-moretti/)
+
+## 📫 Portfolio  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-sofia-moretti.netlify.app/)
 
 
