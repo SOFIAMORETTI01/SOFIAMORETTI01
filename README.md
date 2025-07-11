@@ -1,7 +1,7 @@
 ## Hi there! Welcome to my Github Profile! 👋 
 
 
-### 🙋‍♀️ About me
+## 🙋‍♀️ About me
 
 **Actuary | Data Scientist** 
 
@@ -10,7 +10,7 @@ Currently expanding my knowledge in machine learning and modern data-driven mode
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 **🧑‍💻 Programming:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
