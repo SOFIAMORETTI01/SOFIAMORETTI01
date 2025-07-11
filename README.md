@@ -22,17 +22,17 @@ Currently expanding my knowledge in machine learning and modern data-driven mode
 
 **🛠️ Dev Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+## 🚀 Featured Projects
+
+- 🧠 [FCE ChatBot](https://github.com/SOFIAMORETTI01/FCE-ChatBot)  
+- 🏘️ [Web Scraping and Rental Price Analysis in CABA](https://github.com/SOFIAMORETTI01/rent_analytics)  
+- 🔍 [Claims Analysis Using Unsupervised Models](https://github.com/SOFIAMORETTI01/Claim_anomalies)
 
 
-
-
-## 🚀 Proyectos destacados
-- 🧠 Predicción de churn de empleados  
-- 🏠 Web scraping y análisis de alquileres en CABA  
-- 🔍 Análisis de siniestros con modelos no supervisados
-
-## 📫 Contacto  
+## 📫 Contact Me  
 📧 sofiamoretti01@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sofia-dana-moretti/)  
-🌐 Portfolio en desarrollo
+🌐 https://portfolio-sofia-moretti.netlify.app/
 
