@@ -2,7 +2,6 @@
 **Actuary | Data Scientist** 
 I build data-driven solutions by combining actuarial expertise and data science, with applications in insurance and beyond.
 
-## 🛠 Tools
 ## 🛠️ Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
