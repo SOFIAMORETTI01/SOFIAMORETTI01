@@ -8,7 +8,6 @@
 I build data-driven solutions by combining actuarial expertise and data science, with applications in insurance and beyond.
 Currently expanding my knowledge in machine learning and modern data-driven modeling techniques.
 
----
 
 ## 🛠️ Languages and Tools
 
@@ -22,13 +21,13 @@ Currently expanding my knowledge in machine learning and modern data-driven mode
 
 **🛠️ Dev Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+
 
 ## 🚀 Featured Projects
 
-- 🧠 [FCE ChatBot](https://github.com/SOFIAMORETTI01/FCE-ChatBot)  
-- 🏘️ [Web Scraping and Rental Price Analysis in CABA](https://github.com/SOFIAMORETTI01/rent_analytics)  
-- 🔍 [Claims Analysis Using Unsupervised Models](https://github.com/SOFIAMORETTI01/Claim_anomalies)
+🧠 [FCE ChatBot](https://github.com/SOFIAMORETTI01/FCE-ChatBot)  
+🏘️ [Web Scraping and Rental Price Analysis in CABA](https://github.com/SOFIAMORETTI01/rent_analytics)  
+🔍 [Claims Analysis Using Unsupervised Models](https://github.com/SOFIAMORETTI01/Claim_anomalies)
 
 
 ## 📫 Contact Me  
