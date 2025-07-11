@@ -8,7 +8,7 @@
 I build data-driven solutions by combining actuarial expertise and data science, with applications in insurance and beyond.
 Currently expanding my knowledge in machine learning and modern data-driven modeling techniques.
 
----
+___
 
 ### 🛠️ Languages and Tools
 
