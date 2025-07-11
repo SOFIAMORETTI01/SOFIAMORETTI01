@@ -5,9 +5,6 @@
 I build data-driven solutions by combining actuarial expertise and data science, with applications in insurance and beyond.
 
 ### 🛠️ Languages and Tools
-
-## 🛠️ Languages and Tools
-
 **🧑‍💻 Programming:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
