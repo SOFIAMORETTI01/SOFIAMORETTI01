@@ -8,8 +8,9 @@ I build data-driven solutions by combining actuarial expertise and data science,
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-007ACC?style=for-the-badge&logo=sas&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-007ACC?style=for-the-badge&logo=analytics&logoColor=white)
 ![ResQ](https://img.shields.io/badge/ResQ-444444?style=for-the-badge&logo=data&logoColor=white)
+
 
 
 
