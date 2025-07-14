@@ -18,7 +18,12 @@ Currently expanding my knowledge in machine learning and modern data-driven mode
 
 **🤖 Modeling & Analytics:** ![SAS](https://img.shields.io/badge/SAS-007ACC?style=for-the-badge&logo=analytics&logoColor=white)
 
-**📐 Actuarial Tools:** ![ResQ](https://img.shields.io/badge/ResQ-444444?style=for-the-badge&logo=data&logoColor=white)
+**📐 Actuarial Tools:**  
+![ResQ](https://img.shields.io/badge/ResQ-444444?style=for-the-badge&logo=data&logoColor=white)
+![Arius](https://img.shields.io/badge/Arius-444444?style=for-the-badge&logo=chart&logoColor=white)
+![Radar](https://img.shields.io/badge/Radar-444444?style=for-the-badge&logo=radar&logoColor=white)
+![Emblem](https://img.shields.io/badge/Emblem-444444?style=for-the-badge&logo=pie-chart&logoColor=white)
+
 
 **🛠️ Dev Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
