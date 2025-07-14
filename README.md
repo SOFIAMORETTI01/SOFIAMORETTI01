@@ -27,7 +27,7 @@ Currently expanding my knowledge in machine learning and modern data-driven mode
 
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Featured projects
 
 🧠 [FCE ChatBot](https://github.com/SOFIAMORETTI01/FCE-ChatBot)  
 🏘️ [Web Scraping and Rental Price Analysis in CABA](https://github.com/SOFIAMORETTI01/rent_analytics)  
@@ -35,7 +35,7 @@ Currently expanding my knowledge in machine learning and modern data-driven mode
 
 <br>
 
-## 📫 Contact Me  
+## 📫 Contact me  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiamoretti01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-dana-moretti/)
 
