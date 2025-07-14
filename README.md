@@ -30,7 +30,7 @@ Currently expanding my knowledge in machine learning and modern data-driven mode
 ## 🚀 Featured projects
 
 🧠 [FCE ChatBot](https://github.com/SOFIAMORETTI01/FCE-ChatBot)  
-🏘️ [Web Scraping and Rental Price Analysis in CABA](https://github.com/SOFIAMORETTI01/rent_analytics)  
+🏘️ [CABA rental market analysis](https://github.com/SOFIAMORETTI01/rent_analytics)  
 🔍 [Claims Analysis Using Unsupervised Models](https://github.com/SOFIAMORETTI01/Claim_anomalies)
 
 <br>
