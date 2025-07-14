@@ -42,4 +42,5 @@ Currently expanding my knowledge in machine learning and modern data-driven mode
 <br>
 
 ## 🌐 Portfolio  
-(https://portfolio-sofia-moretti.netlify.app/)
+[![Visit Portfolio](https://img.shields.io/badge/🌍%20View%20Portfolio-blue?style=for-the-badge)](https://portfolio-sofia-moretti.netlify.app/)
+
