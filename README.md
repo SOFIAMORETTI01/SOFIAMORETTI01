@@ -30,8 +30,9 @@ Currently expanding my knowledge in machine learning and modern data-driven mode
 ## 🚀 Featured projects
 
 🧠 [FCE ChatBot](https://github.com/SOFIAMORETTI01/FCE-ChatBot)  
-🏘️ [CABA rental market analysis](https://github.com/SOFIAMORETTI01/rent_analytics)  
+🏘️ [Employee churn modeling](https://github.com/SOFIAMORETTI01/employee-churn-modeling)  
 🔍 [Claims Analysis Using Unsupervised Models](https://github.com/SOFIAMORETTI01/Claim_anomalies)
+✊ [Rock, Paper, Scissors](https://github.com/SOFIAMORETTI01/Rock-paper-scissors)
 
 <br>
 
